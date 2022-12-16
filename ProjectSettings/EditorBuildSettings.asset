@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/VincentMERGE19_1.unity
+    guid: 3acfbb2c4959112448359ac50da713d8
+  - enabled: 0
+    path: Assets/VincentMERGE22_1.unity
+    guid: ca6184f654de4144886c62cfb037c393
+  - enabled: 0
+    path: Assets/MasterBuildv1.unity
+    guid: f48c4d90ca29b5c469fca48fb5a512ac
+  - enabled: 1
+    path: Assets/July04PM.unity
+    guid: d78e728f9f9b6f442b35af1b27c1c805

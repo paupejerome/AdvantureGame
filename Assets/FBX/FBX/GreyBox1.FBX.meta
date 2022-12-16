@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: ab453d4444bff684593c6491d437075b
+timeCreated: 1527892607
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: -PROPS-Bow
+    100002: -PROPS-Emiter01
+    100004: -PROPS-Emiter02
+    100006: -PROPS-MagneticPole01
+    100008: -PROPS-MagneticPole02
+    100010: -PROPS-MovingCube01
+    100012: -PROPS-MovingCube02
+    100014: Box003
+    100016: CrumblingPlatform
+    100018: FirstPuzzleRoom
+    100020: //RootNode
+    100022: Object001
+    100024: Object002
+    400000: -PROPS-Bow
+    400002: -PROPS-Emiter01
+    400004: -PROPS-Emiter02
+    400006: -PROPS-MagneticPole01
+    400008: -PROPS-MagneticPole02
+    400010: -PROPS-MovingCube01
+    400012: -PROPS-MovingCube02
+    400014: Box003
+    400016: CrumblingPlatform
+    400018: FirstPuzzleRoom
+    400020: //RootNode
+    400022: Object001
+    400024: Object002
+    2100000: No Name
+    2300000: -PROPS-Bow
+    2300002: -PROPS-Emiter01
+    2300004: -PROPS-Emiter02
+    2300006: -PROPS-MagneticPole01
+    2300008: -PROPS-MagneticPole02
+    2300010: -PROPS-MovingCube01
+    2300012: -PROPS-MovingCube02
+    2300014: Box003
+    2300016: CrumblingPlatform
+    2300018: FirstPuzzleRoom
+    2300020: Object001
+    2300022: Object002
+    3300000: -PROPS-Bow
+    3300002: -PROPS-Emiter01
+    3300004: -PROPS-Emiter02
+    3300006: -PROPS-MagneticPole01
+    3300008: -PROPS-MagneticPole02
+    3300010: -PROPS-MovingCube01
+    3300012: -PROPS-MovingCube02
+    3300014: Box003
+    3300016: CrumblingPlatform
+    3300018: FirstPuzzleRoom
+    3300020: Object001
+    3300022: Object002
+    4300000: Box003
+    4300002: Object001
+    4300004: Object002
+    4300006: FirstPuzzleRoom
+    4300008: -PROPS-Bow
+    4300010: -PROPS-MagneticPole02
+    4300012: -PROPS-Emiter02
+    4300014: -PROPS-Emiter01
+    4300016: -PROPS-MagneticPole01
+    4300018: -PROPS-MovingCube02
+    4300020: -PROPS-MovingCube01
+    4300022: CrumblingPlatform
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

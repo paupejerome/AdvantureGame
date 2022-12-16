@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 305fc983c3831b44bb27e7a2356af2a1
+timeCreated: 1527892252
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Block1
+    100002: Block2
+    100004: Block3
+    100006: Block4
+    100008: Chest
+    100010: Cylinder1
+    100012: Cylinder2
+    100014: Cylinder3
+    100016: Cylinder4
+    100018: //RootNode
+    100020: Level_room
+    100022: Pillar1
+    100024: Pillar2
+    100026: Receiver
+    100028: Stairs
+    100030: Turret
+    400000: Block1
+    400002: Block2
+    400004: Block3
+    400006: Block4
+    400008: Chest
+    400010: Cylinder1
+    400012: Cylinder2
+    400014: Cylinder3
+    400016: Cylinder4
+    400018: //RootNode
+    400020: Level_room
+    400022: Pillar1
+    400024: Pillar2
+    400026: Receiver
+    400028: Stairs
+    400030: Turret
+    2100000: No Name
+    2300000: Block1
+    2300002: Block2
+    2300004: Block3
+    2300006: Block4
+    2300008: Chest
+    2300010: Cylinder1
+    2300012: Cylinder2
+    2300014: Cylinder3
+    2300016: Cylinder4
+    2300018: Level_room
+    2300020: Pillar1
+    2300022: Pillar2
+    2300024: Receiver
+    2300026: Stairs
+    2300028: Turret
+    3300000: Block1
+    3300002: Block2
+    3300004: Block3
+    3300006: Block4
+    3300008: Chest
+    3300010: Cylinder1
+    3300012: Cylinder2
+    3300014: Cylinder3
+    3300016: Cylinder4
+    3300018: Level_room
+    3300020: Pillar1
+    3300022: Pillar2
+    3300024: Receiver
+    3300026: Stairs
+    3300028: Turret
+    4300000: Block2
+    4300002: Chest
+    4300004: Turret
+    4300006: Pillar1
+    4300008: Block1
+    4300010: Pillar2
+    4300012: Cylinder1
+    4300014: Cylinder2
+    4300016: Level_room
+    4300018: Stairs
+    4300020: Block3
+    4300022: Cylinder3
+    4300024: Block4
+    4300026: Receiver
+    4300028: Cylinder4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
